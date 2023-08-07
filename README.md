@@ -6,7 +6,7 @@
 - Nowadays, I am learning about - full stack web development.
 - Currently in Delhi University.
 - Batch of 22-26.
-- Someday i want to discover a unique idea.
+- Someday, i want to discover a unique idea 👨‍🎓.
 <h2>🛠 Tech Stack</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60> <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> <img > 
