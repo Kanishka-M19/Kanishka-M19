@@ -2,10 +2,11 @@
 
 <h2>🤓 About Me</h2>
 
-- I am a COMPUTER SCIENCE student.
-- Nowadays, I am learning about - mern stack app development.
+- I am a BSc.(hons)computer science student.
+- Nowadays, I am learning about - full stack web development.
 - Currently in Delhi University.
-- Batch of 22-26
+- Batch of 22-26.
+- Someday i want to discover a unique idea.
 <h2>🛠 Tech Stack</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60> <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> <img > 
