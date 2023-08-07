@@ -4,7 +4,8 @@
 
 - I am a COMPUTER SCIENCE student.
 - Nowadays, I am learning about - mern stack app development.
-- Currently in IPCW.
+- Currently in Delhi University.
+- Batch of 22-26
 <h2>🛠 Tech Stack</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60> <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> <img > 
