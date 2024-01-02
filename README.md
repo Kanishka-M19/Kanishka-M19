@@ -5,9 +5,18 @@
 - I am a BSc.(hons)computer science student.
 - Nowadays, I am learning about - full stack web development.
 - Currently in Delhi University.
+  
+<h2>🛠️: Tech Stack</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60> <img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> <img > 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=60> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=60> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=60> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60> 
+<img  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> 
+<img >
 
 <h2>📈 Kanishka's Github Stats</h2>
 <table>
